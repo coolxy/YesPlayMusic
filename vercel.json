@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "http://n.coolxy.top:83/:match*"
+      "destination": "https://netease-cloud-music-api-virid-alpha.vercel.app/:match*"
     }
   ]
 }
